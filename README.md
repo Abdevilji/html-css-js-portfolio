@@ -2,7 +2,11 @@
 
 A simple, responsive personal portfolio website built with HTML, CSS, and JavaScript. It showcases my skills, projects, and experience.
 
-[Host Link]{https://abdevilji.github.io/html-css-js-portfolio/}
+## Hosted Link
+
+Check out the live version of my portfolio [Host Link](https://abdevilji.github.io/html-css-js-portfolio/).
+
+
 
 ## Features
 
